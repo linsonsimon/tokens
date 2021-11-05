@@ -1,0 +1,44 @@
+// 20211105223310
+// https://raw.githubusercontent.com/pangolindex/tokenlists/main/defi.tokenlist.json
+
+{
+  "name": "Ropsten DeFi Tokens",
+  "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
+  "keywords": [
+    "avalanche",
+    "defi",
+    "dex"
+  ],
+  "version": {
+    "major": 5,
+    "minor": 13,
+    "patch": 0
+  },
+  "timestamp": "2021-10-31T04:17:05+00:00",
+  "tokens": [
+    {
+      "address": "0xf70949bc9b52deffcda63b0d15608d601e3a7c49",
+      "chainId": 3,
+      "name": "Wrapped ETHER",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    },
+    {
+      "address": "0xeefc7e8618b189de612fe1612b6754a5acfe9f09",
+      "chainId": 3,
+      "name": "PeliCan",
+      "symbol": "PCN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png"
+    },
+    {
+      "address": "0x73e7040B225bF6bB72F511e954e845CF4c218685",
+      "chainId": 3,
+      "name": "LEDU",
+      "symbol": "LEDU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png"
+    }
+  ]
+}
