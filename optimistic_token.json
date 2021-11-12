@@ -1,0 +1,121 @@
+{
+  "name": "OPTIMISTIC DeFi Tokens",
+  "logoURI": "",
+  "keywords": [
+    "avalanche",
+    "defi",
+    "dex"
+  ],
+  "version": {
+    "major": 5,
+    "minor": 13,
+    "patch": 0
+  },
+  "timestamp": "2021-10-31T04:17:05+00:00",
+  "tokens": [
+    {
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "chainId": 10,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+      "chainId": 10,
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+      "chainId": 10,
+      "name": "Rari Governance Token",
+      "symbol": "RGT",
+      "decimals": 18,
+      "logoURI": ""
+    },
+	{
+      "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
+      "chainId": 10,
+      "name": "Synth sETH",
+      "symbol": "sETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+	{
+      "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
+      "chainId": 10,
+      "name": "Synth sBTC",
+      "symbol": "sBTC",
+      "decimals": 18,
+      "logoURI": ""
+    },
+	{
+      "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+      "chainId": 10,
+      "name": "Synth sUSD",
+      "symbol": "sUSD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+	{
+      "address": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
+      "chainId": 10,
+      "name": "Synth sLINK",
+      "symbol": "sLINK",
+      "decimals": 18,
+      "logoURI": ""
+    },
+	{
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 10,
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+	{
+      "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+      "chainId": 10,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": ""
+    },
+	{
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "chainId": 10,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": ""
+    },
+	{
+      "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+      "chainId": 10,
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": ""
+    },
+	{
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "chainId": 10,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": ""
+    },
+	{
+      "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+      "chainId": 10,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
